@@ -1,0 +1,12 @@
+p {
+  padding-inline-start: 40px;
+  padding-inline-end: 40px;
+}
+
+.second {
+  background-color: burlywood;
+}
+ 
+h3 {
+  font-size: 3rem;
+}

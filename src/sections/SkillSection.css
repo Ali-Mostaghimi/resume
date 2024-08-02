@@ -1,0 +1,10 @@
+.cards-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.third {
+  background-color: pink;
+}

@@ -1,0 +1,46 @@
+{
+  "title": "Hello I`m Ali!",
+  "subtitle": "Expreinced Android developer | new learner of Front-end development",
+  "links": {
+    "github": "https://github.com/Ali-Mostaghimi",
+    "linkedin": "https://www.linkedin.com/in/ali-mostaghimi/",
+    "email": "mailto:alimostaghimi.bo@gmail.com"
+  },
+  "sections": [
+    {
+      "title": "About",
+      "items": [
+        {
+          "type": "p",
+          "content": "Experienced Android developer with +5 years of experience in developing, testing and maintaining large scale applications in the field of E-commerce, Social Media, Video-on-demand and Map based applications with 4.3 stars rating in Google Play and +20M users. Using Kotlin, Java, Android SDK, SQL, GitFlow, Custom Views, Jetpack components and third party libraries to build memory efficient, elegant UI/UX design and well-performing applications according to the SOLID principles with clean code and appropriate documentation."
+        }
+      ]
+    },
+    {
+      "title": "Skills",
+      "items": [
+        {
+          "type": "card",
+          "content": {
+            "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg",
+            "title": "Android"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg",
+            "title": "Kotlin"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg",
+            "title": "Java"
+          }
+        }
+      ]
+    }
+  ]
+}
